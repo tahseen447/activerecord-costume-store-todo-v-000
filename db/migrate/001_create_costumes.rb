@@ -9,5 +9,6 @@
 # value types according to the spec
 
 class CreateCostumes < ActiveRecord::Migration
-
+  def change
+  end
 end
